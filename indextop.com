@@ -42,7 +42,7 @@
     </li><li>食中毒の予防・対策
     </li></ul></div>
 <div id="section">
-<h1>はじめに</h1>
+<h1>食中毒について</h1>
 </div>
 <div id="footer">
 えーてぇーぺー
